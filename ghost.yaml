@@ -1,0 +1,12 @@
+ghost:
+  name: "Casper"
+  type: "Friendly Ghost"
+  age: 205
+  Weight: 0.00
+  abilities:
+    - "Flying"
+    - "Passing through walls"
+  mood: "peaceful"
+  Location:
+    City: "Kyiv"
+    Country: "Ukraine"

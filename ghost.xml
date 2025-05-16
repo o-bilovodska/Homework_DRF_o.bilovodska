@@ -1,0 +1,15 @@
+<ghost>
+    <name>Casper</name>
+    <type>Friendly Ghost</type>
+    <age>205</age>
+    <weight>0.00</weight>
+    <abilities>
+        <ability>Flying</ability>
+        <ability>Passing through walls</ability>
+    </abilities>
+    <mood>peaceful</mood>
+    <Location>
+        <City>Kyiv</City>
+        <Country>Ukraine</Country>
+    </Location>
+</ghost>
