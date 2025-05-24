@@ -1,0 +1,17 @@
+{
+    "ghost": {
+        "name": "Casper",
+        "type": "Friendly Ghost",
+        "age": 205,
+ 	"weight": 0.00,
+        "abilities": [
+            "Flying",
+            "Passing through walls"
+        ],
+        "mood": "peaceful",
+        "location": {
+            "city": "Kyiv",
+            "country": "Ukraine"
+        }
+    }
+}
